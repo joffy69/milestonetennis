@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans:100,200,300,400,500,600,700&display=swap');
+/*---------------------------something--------------------*/
+.container-fluid{
+    background-color:cadetblue;
+}
+/*---------------------------something--------------------*/
+
+.header{
+    color: #dsadsa;
+    
+}
+/*---------------------------something--------------------*/
+
+.user-info{
+    font-family: "Noto Sans", sans-serif;
+    font-weight:600;
+    color: #fafafa;
+}
