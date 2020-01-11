@@ -14,10 +14,40 @@
 .user-info{
     font-family: "Noto Sans", sans-serif;
     font-weight:600;
-    color: #fafafa;
+    color: #fafafa; 
+    margin-top: 20px;
+    text-align: center;
 }
 
 .block-titles{
-    padding: 30 px 30px 30px 30px;
+    padding: 30px 30px 30px 30px;
+    text-align: center;
+}
+
+.logo{
+    background: url("../pictures/generictennisclub.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.icon{
+    display: inline-block;
+   
+    text-align: center;
+     width: 100px;
+}
+
+.text-item{
+    
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+.text-centalign{
     text-align: center;
 }
