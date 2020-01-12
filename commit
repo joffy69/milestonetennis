@@ -1,1 +1,3 @@
-Still having difficulty centring fa icons
+finally got the logo to display
+
+my error: url: /assets/etc should be ../assets/etc
