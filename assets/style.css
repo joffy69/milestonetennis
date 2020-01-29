@@ -10,7 +10,13 @@
     
 }
 /*---------------------------something--------------------*/
+.position-fixed{
+    position: fixed;
+}
 
+.relative-position{
+    position: relative;
+}
 .user-info{
     font-family: "Noto Sans", sans-serif;
     font-weight:600;
