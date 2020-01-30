@@ -21,7 +21,7 @@ save all appears to be crtl option s on the ipad
 test
 
 python3 -m http.server
-
+k
 
 what follows is the bootstrap code for navbar
 
@@ -95,3 +95,5 @@ what follows is the bootstrap code for navbar
     </form>
   </div>
 </nav>
+
+another note - have switched off grey bar at bottom in settings general shortcuts
