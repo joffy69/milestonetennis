@@ -86,8 +86,21 @@
 --*/
 
 /*---------------------------something--------------------*/
-@media(min-width:992px){
+
+
+/*-----more media queries for things
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap-----*/
+
+@media (min-width: 576px) { 
     .content{
         
     }
 }
+
+@media (min-width: 768px) { ... }
+
+@media (min-width: 992px) { ... }
+
+@media (min-width: 1200px) { ... }
