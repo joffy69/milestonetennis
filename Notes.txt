@@ -97,3 +97,5 @@ what follows is the bootstrap code for navbar
 </nav>
 
 another note - have switched off grey bar at bottom in settings general shortcuts
+
+Remember opening hours and membership details
