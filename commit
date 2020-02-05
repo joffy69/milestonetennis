@@ -1,3 +1,1 @@
-background image not working as I'm expecting
-
-made the error of not realizing that bg-image is already used
+added height: 100vh;
