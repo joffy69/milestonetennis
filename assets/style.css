@@ -1,11 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans:100,200,300,400,500,600,700&display=swap');
-
-.bg-image{
-    background-image: url('../assets/pictures/tennis-generic_0.jpg');
+.tennis-size{
+    height: 100%;
+    width: 100%
+}
+.tennis-image {
+    background-image: url("../assets/pictures/tennis-generic.jpg");
     background-color:bisque;
-    background-position: center;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
     background-repeat: no-repeat;
-    background-size: contain;
-     min-height: 300px;
-    min-width:  300px;
 }
