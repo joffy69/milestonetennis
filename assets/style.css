@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans:100,200,300,400,500,600,700&display=swap');
+
+
+
 .tennis-size{
-    
     height: 100vh;
     
-   
+}
+
+.logo-size{
+    height: 100px;
 }
 .tennis-image {
     background-image: url("../assets/pictures/tennis-generic.jpg");
@@ -17,4 +22,23 @@
     justify-content: center;
     position: relative;
     background-repeat: no-repeat;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+    width: 100%;
+    background-color: rgba(0,0,0,.25);
+}
+
+.logo{
+    background: url('../assets/pictures/logo.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 300px;
+    min-width:  300px;
+    /*---transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;---*/
 }
