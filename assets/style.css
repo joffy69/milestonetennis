@@ -8,7 +8,7 @@
 }
 
 .logo-size{
-    height: 100px;
+    height: 25px;
 }
 .tennis-image {
     background-image: url("../assets/pictures/tennis-generic.jpg");
@@ -32,12 +32,12 @@
 }
 
 .logo{
-    background: url('../assets/pictures/logo.jpg');
+    background: url('../assets/pictures/logo100.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    min-height: 300px;
-    min-width:  300px;
+    min-height: 100px;
+    min-width:  100px;
     /*---transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;---*/
