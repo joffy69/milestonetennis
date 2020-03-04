@@ -51,3 +51,10 @@
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;---*/
 }
+
+.drop-down-menu{
+    position:fixed;
+    right: 40px;
+    top: 15px;
+    
+}
