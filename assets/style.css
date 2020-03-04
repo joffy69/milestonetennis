@@ -2,7 +2,7 @@
 
 .title-style{
     position: relative;
-    top: 30px;
+    top: 33px;
     align-content: center;
     vertical-align: center;
     text-align: center;
@@ -40,6 +40,7 @@
 }
 
 .logo{
+   
     background: url('../assets/pictures/logo100.jpg');
     background-position: center;
     background-repeat: no-repeat;
