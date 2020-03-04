@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans:100,200,300,400,500,600,700&display=swap');
 
-
+.title-style{
+    position: relative;
+    top: 30px;
+    align-content: center;
+    vertical-align: center;
+    text-align: center;
+    display: inline-block;
+   
+}
 
 .tennis-size{
     height: 100vh;
