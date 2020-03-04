@@ -58,3 +58,32 @@
     right: 40px;
     top: 15px;
 }
+
+.jumbotron {
+    background-color: transparent;
+    position: fixed;
+    right: 0;
+    width: 33%;
+    top:50%;
+}
+
+.jumbotron h1{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+/*.jumbotron .lead {
+    margin: 25px 0;
+    color: #b9acaf;
+}
+
+.jumbotron small {
+    font-size: 60%;
+    font-style: italic;
+    color: #d0d0d0;
+}*/
+
+.lead{
+    
+}
