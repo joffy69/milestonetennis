@@ -41,13 +41,16 @@
 }
 
 .logo{
-   
+    display:block;
+    height: 25px;
+    min-height: 100px;
+    min-width:  100px;
     background: url('../assets/pictures/logo100.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    min-height: 100px;
-    min-width:  100px;
+
+    
     /*---transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;---*/
@@ -91,3 +94,17 @@
     color: #d0d0d0;
 }*/
 
+/* Style buttons */
+.btn {
+  background-color: DodgerBlue; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
