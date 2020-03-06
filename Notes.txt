@@ -1,6 +1,8 @@
+---------------------------------------------------------------------------------------------------------------------
 Remember to use things in bootstrap.
 navbar
 modal
+---------------------------------------------------------------------------------------------------------------------
 // Extra small devices (portrait phones, less than 576px)
 // No media query since this is the default in Bootstrap
 
@@ -15,14 +17,11 @@ modal
 
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
-
+---------------------------------------------------------------------------------------------------------------------
 save all appears to be crtl option s on the ipad
-
-test
-
+---------------------------------------------------------------------------------------------------------------------
 python3 -m http.server
-k
-
+---------------------------------------------------------------------------------------------------------------------
 what follows is the bootstrap code for navbar
 
 
@@ -95,7 +94,29 @@ what follows is the bootstrap code for navbar
     </form>
   </div>
 </nav>
-
+---------------------------------------------------------------------------------------------------------------------
 another note - have switched off grey bar at bottom in settings general shortcuts
-
+---------------------------------------------------------------------------------------------------------------------
 Remember opening hours and membership details
+---------------------------------------------------------------------------------------------------------------------
+From uxstackexchange a comment re login v sign up
+"0
+
+"Form Follows Function", or as we say in UX "Design must solve a purpose".
+
+That purpose, is defined by the Company at its growth stage for you. For example, in an e-commerce firm, some sites will have the search-bar in near same color as background (sort of blended in), that's because their catalog is less and Browsing is main method in user-journey. The business also depends on users getting accidental discovery of new products in their browsing path. Where as other big giants like amazon, have search bar over an inverted color palette, improving its visibility as its one of the main methods for a user to reach his desired product in a large catalog.
+
+So, for a new app/service, the path may be to promote SignUps to improve conversions, where as for something in growth stage, it would be Log-in to promote engagement.
+
+So if users are migrating from an existing web service, like Facebook, then lead with login. If its a mobile-first app or most users of web have already downloaded and installed and all the fresh downloads are going to be mainly by new users, lead with "Sign-up"
+
+So the one possible answer is "Whatever suits the business requirement"
+
+There may be other answers, each pointing to a different data set. In absence of Data, this is one to start with.
+
+shareimprove this answer
+answered Feb 7 '18 at 11:56
+
+Abhishek Thakkar
+313"
+---------------------------------------------------------------------------------------------------------------------
